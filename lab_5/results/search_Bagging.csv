@@ -1,0 +1,6 @@
+parameters,threshold,valid_macro_f1,valid_macro_f1_at_0.5
+{},0.5,0.9450315153184692,0.9450315153184692
+"{'estimator__class_weight': None, 'estimator__max_depth': 8}",0.4668232129945256,0.9483994359422678,0.9450315153184692
+"{'estimator__class_weight': None, 'estimator__max_depth': 16}",0.5,0.9450315153184692,0.9450315153184692
+"{'estimator__class_weight': 'balanced', 'estimator__max_depth': 8}",0.5568959988257457,0.9233987742536519,0.9233987742536519
+"{'estimator__class_weight': 'balanced', 'estimator__max_depth': 16}",0.23333333333333334,0.9276200479615025,0.914958692586278
